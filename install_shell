@@ -1,0 +1,1 @@
+mvn install:install-file -DgroupId=eigenbase -DartifactId=eigenbase-properties -Dversion=1.1.4 -Dpackaging=jar  -Dfile=D:\Desktop\eigenbase-properties-1.1.4.jar
